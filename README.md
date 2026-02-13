@@ -1,6 +1,6 @@
 <!-- ======================= HEADER ======================= -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=36&duration=2800&pause=700&color=38BDF8&center=true&vCenter=true&width=750&lines=Hi+👋+I'm+Aryan+Chaudhary;Software+Developer;MERN+Stack+%7C+Machine+Learning;Building+Scalable+Real-World+Products" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=36&duration=2800&pause=700&color=38BDF8&center=true&vCenter=true&width=750&lines=Hi+👋+I'm+Aryan;Software+Developer;MERN+Stack+%7C+Machine+Learning;Building+Scalable+Real-World+Products" />
 </h1>
 
 <p align="center">
@@ -8,8 +8,7 @@
 </p>
 
 <p align="center">
-🎓 <b>B.E. Information Technology</b> @ UIET, Panjab University (2022–2026) <br/>
-📍 Chandigarh, India
+🎓 <b>B.E. Information Technology</b> (2022–2026) <br/>
 </p>
 
 ---
@@ -134,9 +133,6 @@
 ## 🌐 Connect With Me
 
 <p>
-  <a href="https://www.linkedin.com/in/aryan-chaudhary-12a408370">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
-  </a>
   <a href="https://github.com/aryan-chaudhary23">
     <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"/>
   </a>
